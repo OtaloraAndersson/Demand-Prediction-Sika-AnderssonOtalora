@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Entornos
+.env
+.venv/
+ENV/
+env/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datos (no sensibles)
+data/raw/
+data/processed/
+
+# Resultados grandes
+results/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
