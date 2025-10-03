@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+pmdarima
+tensorflow==2.15.*
+keras
+python-dotenv
